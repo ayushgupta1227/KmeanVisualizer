@@ -11,7 +11,7 @@ using Matplotlib and SciPy. It includes the following key components:
 - Execution: The script generates random data, runs the Elbow method to determine the optimal number of clusters,
     performs K-means clustering, and displays the clustering process using Matplotlib.
 
-@author Jaysh Khan
+@author Ayush Gupta
 """
 import numpy as np
 from scipy.spatial import ConvexHull
