@@ -12,7 +12,7 @@ It includes the following key components:
 - Execution: The script generates random data, runs the K-means algorithm,
     and displays the clustering process using Matplotlib.
 
-@author Jaysh Khan
+@author Ayush Gupta
 """
 
 from time import sleep
